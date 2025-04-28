@@ -1,10 +1,11 @@
-<!-- @format -->
+<img width="1418" alt="Screenshot 2025-04-28 at 11 32 05 AM" src="https://github.com/user-attachments/assets/fa0e4ae7-5f60-4af9-a897-a202cc12f0bb" /><!-- @format -->
 
 # 🎬 Movie Cards Application
 
 A responsive React application that displays a collection of movie cards with details using Bootstrap for styling.
 
-![Movie Cards Screenshot](https://via.placeholder.com/800x400?text=Movie+Cards+App)
+![Movie Cards Screenshot]([Uploading Screenshot 2025-04-28 at 11.32.05 AM.png…]
+s+App)
 
 ##  Features
 
@@ -45,7 +46,7 @@ movies-card/
 1. Clone the repository:
 
    ```bash
-   git clone <repository-url>
+   git clone <https://github.com/mahmoudadel810/React-Card_movies.git>
    cd movies-card
    ```
 
